@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hey 👋, I'm Natthawit Nowanghan</h1>
+
 Student of King Mongkut's Institute of Technology Ladkrabang (University in Thailand)<br>- 🌱 I’m currently learning IoT systems, Artificial Intelligence, and Network Security<br>
 
 
