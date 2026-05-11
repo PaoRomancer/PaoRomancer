@@ -1,7 +1,12 @@
 <h1>Hey 👋, I'm Natthawit Nowanghan</h1>
-- 👩🏼‍💻 Student of King Mongkut's Institute of Technology Ladkrabang (University in Thailand) </h3><br>- 🌱 I’m currently learning IoT systems, Artificial Intelligence, and Network Security<br>
-- 🌐 Member of IoT and Information Engineer, And IoT and Electronics Research Laboratory <br>
-- 📫 See My Portfolio Website: [PubSubClient](https://github.com/knolleary/pubsubclient)
+
+*  👩🏼‍💻 Student of King Mongkut's Institute of Technology Ladkrabang (University in Thailand) </h3><br>
+* 🌱 I’m currently learning IoT systems, Artificial Intelligence, and Network Security<br>
+* 🌐 Member of IoT and Information Engineer, And IoT and Electronics Research Laboratory <br>
+* 📫 See My Portfolio Website here [Natthawit Portfolio](https://paoromancer.github.io/)
+
+
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:natthawitno@outlook.com) 
