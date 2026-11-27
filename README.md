@@ -31,7 +31,7 @@ Name      : Natthawit Nowanghan
 Guild     : KMITL (Thailand)
 Class     : IoT and Information Engineering (IOTE)
 Clan      : IoT and Electronics Research Laboratory
-Training  : IoT Systems ✿ AI ✿ Network Security
+Training  : IoT Systems ✿ Embedded Systems ✿ AI & Machine Learning ✿ Network Security 
 Home Base : paoromancer.github.io
 ```
 
