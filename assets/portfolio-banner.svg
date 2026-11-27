@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8fab"/><stop offset=".5" stop-color="#f7a8c4"/><stop offset="1" stop-color="#b8a4e3"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="1000" height="170" rx="22"/></clipPath>
+</defs>
+<style>@keyframes q0{0%{transform:translate(178px,-15px)}100%{transform:translate(153px,185px)}}.q0{animation:q0 9.4s linear -4.5s infinite}
+@keyframes q1{0%{transform:translate(553px,-15px)}100%{transform:translate(469px,185px)}}.q1{animation:q1 8.5s linear -0.0s infinite}
+@keyframes q2{0%{transform:translate(157px,-15px)}100%{transform:translate(175px,185px)}}.q2{animation:q2 9.8s linear -6.8s infinite}
+@keyframes q3{0%{transform:translate(439px,-15px)}100%{transform:translate(463px,185px)}}.q3{animation:q3 8.2s linear -4.4s infinite}
+@keyframes q4{0%{transform:translate(398px,-15px)}100%{transform:translate(401px,185px)}}.q4{animation:q4 6.8s linear -0.8s infinite}
+@keyframes q5{0%{transform:translate(787px,-15px)}100%{transform:translate(689px,185px)}}.q5{animation:q5 8.0s linear -5.3s infinite}
+@keyframes q6{0%{transform:translate(213px,-15px)}100%{transform:translate(214px,185px)}}.q6{animation:q6 9.4s linear -6.2s infinite}
+@keyframes q7{0%{transform:translate(77px,-15px)}100%{transform:translate(40px,185px)}}.q7{animation:q7 8.8s linear -3.4s infinite}
+@keyframes q8{0%{transform:translate(442px,-15px)}100%{transform:translate(390px,185px)}}.q8{animation:q8 7.8s linear -3.0s infinite}
+@keyframes q9{0%{transform:translate(901px,-15px)}100%{transform:translate(888px,185px)}}.q9{animation:q9 6.8s linear -6.7s infinite}
+@keyframes q10{0%{transform:translate(808px,-15px)}100%{transform:translate(779px,185px)}}.q10{animation:q10 7.1s linear -4.0s infinite}
+@keyframes q11{0%{transform:translate(677px,-15px)}100%{transform:translate(606px,185px)}}.q11{animation:q11 10.2s linear -7.7s infinite}
+@keyframes q12{0%{transform:translate(71px,-15px)}100%{transform:translate(67px,185px)}}.q12{animation:q12 10.1s linear -3.8s infinite}
+@keyframes q13{0%{transform:translate(711px,-15px)}100%{transform:translate(728px,185px)}}.q13{animation:q13 7.2s linear -1.2s infinite}
+@keyframes q14{0%{transform:translate(530px,-15px)}100%{transform:translate(447px,185px)}}.q14{animation:q14 7.9s linear -6.9s infinite}
+@keyframes q15{0%{transform:translate(440px,-15px)}100%{transform:translate(329px,185px)}}.q15{animation:q15 9.7s linear -2.8s infinite}
+.sw{animation:spin 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes spin{0%{transform:rotate(0) scaleX(1)}50%{transform:rotate(180deg) scaleX(.4)}100%{transform:rotate(360deg) scaleX(1)}}
+@keyframes sh{0%{transform:translateX(-300px) skewX(-20deg)}60%,100%{transform:translateX(1200px) skewX(-20deg)}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.06)}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(7px)}}
+.shine{animation:sh 3.5s ease-in-out infinite}
+.btn{animation:pulse 2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.arr{animation:nudge 1.2s ease-in-out infinite}
+</style>
+<g clip-path="url(#c)">
+<rect width="1000" height="170" fill="url(#bg)"/>
+<circle cx="170" cy="85" r="62" fill="#ffffff" opacity=".22"/>
+<g transform="translate(170,78) scale(0.62)" fill="#ffffff"><path d="M-62,0 Q0,-12 62,0 L66,-8 Q0,-22 -66,-8 Z"/><rect x="-52" y="12" width="104" height="7"/><rect x="-42" y="-2" width="9" height="110"/><rect x="33" y="-2" width="9" height="110"/><rect x="-5" y="0" width="10" height="14"/></g>
+<rect class="shine" x="0" y="0" width="160" height="170" fill="url(#shine)"/>
+<g font-family="'Segoe UI','Trebuchet MS',Verdana,sans-serif">
+<text x="275" y="62" font-size="16" font-weight="700" fill="#ffffff" letter-spacing="4" opacity=".95">✿ NEW EPISODE AVAILABLE ✿</text>
+<text x="275" y="104" font-size="38" font-weight="800" fill="#ffffff" stroke="#c2185b" stroke-width="5" paint-order="stroke">Visit My Portfolio Website</text>
+<text x="275" y="134" font-size="17" font-weight="600" fill="#6a2c4c" letter-spacing="1">paoromancer.github.io</text>
+</g>
+<g class="btn">
+<rect x="790" y="60" width="170" height="52" rx="26" fill="#ffffff"/>
+<text x="850" y="93" text-anchor="middle" font-family="'Segoe UI','Trebuchet MS',Verdana,sans-serif" font-size="19" font-weight="800" fill="#e75480">ENTER</text>
+<g class="arr"><path d="M900,86 h26 m-10,-10 l10,10 l-10,10" stroke="#e75480" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<g transform="translate(30,28) scale(1.6)"><ellipse cy="-5" rx="3.2" ry="5" fill="#ffffff" transform="rotate(0)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffffff" transform="rotate(72)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffffff" transform="rotate(144)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffffff" transform="rotate(216)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffffff" transform="rotate(288)"/><circle r="1.8" fill="#e75480"/></g><g transform="translate(58,18) scale(1.1)"><ellipse cy="-5" rx="3.2" ry="5" fill="#ffd6e0" transform="rotate(0)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffd6e0" transform="rotate(72)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffd6e0" transform="rotate(144)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffd6e0" transform="rotate(216)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffd6e0" transform="rotate(288)"/><circle r="1.8" fill="#e75480"/></g><g transform="translate(970,145) scale(1.6)"><ellipse cy="-5" rx="3.2" ry="5" fill="#ffffff" transform="rotate(0)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffffff" transform="rotate(72)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffffff" transform="rotate(144)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffffff" transform="rotate(216)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffffff" transform="rotate(288)"/><circle r="1.8" fill="#e75480"/></g><g transform="translate(944,155) scale(1.1)"><ellipse cy="-5" rx="3.2" ry="5" fill="#ffd6e0" transform="rotate(0)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffd6e0" transform="rotate(72)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffd6e0" transform="rotate(144)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffd6e0" transform="rotate(216)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffd6e0" transform="rotate(288)"/><circle r="1.8" fill="#e75480"/></g><g transform="translate(965,22) scale(1.2)"><ellipse cy="-5" rx="3.2" ry="5" fill="#ffe4ec" transform="rotate(0)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffe4ec" transform="rotate(72)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffe4ec" transform="rotate(144)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffe4ec" transform="rotate(216)"/><ellipse cy="-5" rx="3.2" ry="5" fill="#ffe4ec" transform="rotate(288)"/><circle r="1.8" fill="#e75480"/></g>
+<g class="q0"><g class="sw" style="animation-duration:3.0s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffd6e0" transform="scale(1.08)" opacity=".85"/></g></g>
+<g class="q1"><g class="sw" style="animation-duration:3.4s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#f9a8c0" transform="scale(0.86)" opacity=".85"/></g></g>
+<g class="q2"><g class="sw" style="animation-duration:3.6s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffe4ec" transform="scale(1.06)" opacity=".85"/></g></g>
+<g class="q3"><g class="sw" style="animation-duration:4.2s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffe4ec" transform="scale(1.17)" opacity=".85"/></g></g>
+<g class="q4"><g class="sw" style="animation-duration:4.8s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffd6e0" transform="scale(0.70)" opacity=".85"/></g></g>
+<g class="q5"><g class="sw" style="animation-duration:3.7s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffc8d6" transform="scale(0.64)" opacity=".85"/></g></g>
+<g class="q6"><g class="sw" style="animation-duration:4.9s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#f9a8c0" transform="scale(1.19)" opacity=".85"/></g></g>
+<g class="q7"><g class="sw" style="animation-duration:3.4s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffc8d6" transform="scale(1.13)" opacity=".85"/></g></g>
+<g class="q8"><g class="sw" style="animation-duration:5.0s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffd6e0" transform="scale(0.76)" opacity=".85"/></g></g>
+<g class="q9"><g class="sw" style="animation-duration:2.5s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffb7c5" transform="scale(0.93)" opacity=".85"/></g></g>
+<g class="q10"><g class="sw" style="animation-duration:4.1s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffc8d6" transform="scale(1.00)" opacity=".85"/></g></g>
+<g class="q11"><g class="sw" style="animation-duration:4.8s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffc8d6" transform="scale(0.66)" opacity=".85"/></g></g>
+<g class="q12"><g class="sw" style="animation-duration:4.2s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffe4ec" transform="scale(0.91)" opacity=".85"/></g></g>
+<g class="q13"><g class="sw" style="animation-duration:4.4s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffb7c5" transform="scale(1.13)" opacity=".85"/></g></g>
+<g class="q14"><g class="sw" style="animation-duration:2.9s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffb7c5" transform="scale(0.86)" opacity=".85"/></g></g>
+<g class="q15"><g class="sw" style="animation-duration:4.6s"><path d="M0,-6 C4,-6 7,-2 6,2 C5,5 2,7 0,5 C-2,7 -5,5 -6,2 C-7,-2 -4,-6 0,-6 Z" fill="#ffe4ec" transform="scale(0.77)" opacity=".85"/></g></g>
+</g>
+</svg>
