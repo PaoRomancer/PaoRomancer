@@ -1,6 +1,6 @@
 <!-- 🌸 Animated sakura header -->
 <p align="center">
-  <img src="assets/sakura-header.svg" width="100%" alt="Sakura header"/>
+  <img src="assets/sakura-header-2.svg" width="100%" alt="Sakura header"/>
 </p>
 
 <p align="center">
