@@ -41,7 +41,7 @@ Training  :
 
 </td>
     <td width="40%" align="center" valign="middle">
-      <img src="assets/chiikawa-hachiware.gif" width="280" alt="Chiikawa"/>
+      <img src="assets/chiikawa-hachiware.gif" width="480" alt="Chiikawa"/>
     </td>
   </tr>
 </table>
