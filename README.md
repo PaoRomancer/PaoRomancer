@@ -24,20 +24,24 @@
 
 <table>
   <tr>
-    <td width="62%" valign="middle">
+    <td width="60%" valign="middle">
 
 ```yaml
 Name      : Natthawit Nowanghan
 Guild     : KMITL (Thailand)
-Class     : IoT and Information Engineering (IOTE)
-Clan      : IoT and Electronics Research Laboratory
-Training  : IoT Systems ✿ Embedded Systems ✿ AI & Machine Learning ✿ Network Security 
+Class     : IoT & Information Engineering
+Clan      : IoT & Electronics Research Lab
 Home Base : paoromancer.github.io
+Training  :
+  - IoT Systems
+  - Embedded Systems
+  - AI & Machine Learning
+  - Network Security
 ```
 
 </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="assets/chiikawa-hachiware.gif" width="500" alt="Chiikawa"/>
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/chiikawa-hachiware.gif" width="280" alt="Chiikawa"/>
     </td>
   </tr>
 </table>
