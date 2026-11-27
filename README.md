@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/chiikawa-hachiware.gif" width="800" height="400>
+  <img src="assets/chiikawa-hachiware.gif" width="800" height="400">
 </p>
     
-<h1>Hey 👋, I'm Natthawit Nowanghan</h1>
+<h1> Hey 👋, I'm Natthawit Nowanghan </h1>
 
 * 👩🏼‍💻 Student of King Mongkut's Institute of Technology Ladkrabang (University in Thailand)
 * 🎓 Studying IoT and Information Engineering (IOTE), And member of IoT and Electronics Research Laboratory
