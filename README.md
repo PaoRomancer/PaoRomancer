@@ -148,12 +148,6 @@ Home Base : https://paoromancer.github.io/
 ## 💌 Contact Me
 
 <p align="center">
-  <a href="https://paoromancer.github.io/">
-    <img src="assets/portfolio-banner.svg" width="80%" alt="Visit my portfolio website"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="mailto:natthawitno@outlook.com"><img src="https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://paoromancer.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF8FAB?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
