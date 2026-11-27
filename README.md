@@ -1,3 +1,4 @@
+![Banner](assets/bannerProfile.gif)
 <h1>Hey 👋, I'm Natthawit Nowanghan</h1>
 
 * 👩🏼‍💻 Student of King Mongkut's Institute of Technology Ladkrabang (University in Thailand)
