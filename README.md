@@ -170,6 +170,10 @@ Training  :
   <img src="https://komarev.com/ghpvc/?username=PaoRomancer&label=Visitors&color=ff8fab&style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <img src="assets/chiikawa-hachiware (1).gif" width="200">
+</p>
+
 <!-- 🌸 Animated sakura footer -->
 <p align="center">
   <img src="assets/sakura-footer.svg" width="100%" alt="Sakura footer"/>
