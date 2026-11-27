@@ -22,17 +22,27 @@
 
 ## 🏮 Character Profile
 
+<table>
+  <tr>
+    <td width="62%" valign="middle">
+
 ```yaml
 Name      : Natthawit Nowanghan
-Guild     : King Mongkut's Institute of Technology Ladkrabang (Thailand)
+Guild     : KMITL (Thailand)
 Class     : IoT and Information Engineering (IOTE)
 Clan      : IoT and Electronics Research Laboratory
-Training  : IoT Systems  ✿  Artificial Intelligence  ✿  Network Security
-Home Base : https://paoromancer.github.io/
+Training  : IoT Systems ✿ AI ✿ Network Security
+Home Base : paoromancer.github.io
 ```
 
-> 🌸 *"Every great engineer was once a beginner on their own adventure arc."*
+</td>
+    <td width="38%" align="center" valign="middle">
+      <img src="assets/chiikawa-profile.gif" width="260" alt="Chiikawa"/>
+    </td>
+  </tr>
+</table>
 
+> 🌸 *"Every great engineer was once a beginner on their own adventure arc."*
 <p align="center">
   <img src="assets/sakura-divider.svg" width="100%"/>
 </p>
