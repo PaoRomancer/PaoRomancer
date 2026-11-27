@@ -37,7 +37,7 @@ Home Base : paoromancer.github.io
 
 </td>
     <td width="38%" align="center" valign="middle">
-      <img src="assets/chiikawa-hachiwaare.gif" width="260" alt="Chiikawa"/>
+      <img src="assets/chiikawa-hachiware.gif" width="500" alt="Chiikawa"/>
     </td>
   </tr>
 </table>
