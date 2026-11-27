@@ -17,10 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/chiikawa-hachiware.gif" width="800" height="400">
-</p>
-
-<p align="center">
   <img src="assets/sakura-divider.svg" width="100%"/>
 </p>
 
