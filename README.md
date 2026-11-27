@@ -1,4 +1,6 @@
-<center> ![Banner](assets/chiikawa-hachiware.gif)</center>
+<p align="center">
+  <img src="assets/chiikawa-hachiware.gif" width="200">
+</p>
 <h1>Hey 👋, I'm Natthawit Nowanghan</h1>
 
 * 👩🏼‍💻 Student of King Mongkut's Institute of Technology Ladkrabang (University in Thailand)
