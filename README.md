@@ -1,12 +1,23 @@
 <!-- 🌸 Animated sakura header -->
 <p align="center">
-  <img src="assets/sakura-header-2.svg" width="100%" alt="Sakura header"/>
+  <img src="assets/sakura-header.svg" width="100%" alt="Sakura header"/>
 </p>
 
 <p align="center">
   <a href="https://paoromancer.github.io/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E75480&center=true&vCenter=true&width=620&lines=%E2%9C%BF+Natthawit+Nowanghan+%E2%9C%BF;IoT+%26+Information+Engineering+%40+KMITL;AI+%C3%97+IoT+%C3%97+Network+Security;Welcome+to+my+little+world+%F0%9F%8C%B8" alt="Typing SVG"/>
   </a>
+</p>
+
+<!-- 🏯 Portfolio portal -->
+<p align="center">
+  <a href="https://paoromancer.github.io/">
+    <img src="assets/portfolio-banner.svg" width="100%" alt="Visit my portfolio website"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/chiikawa-hachiware.gif" width="800" height="400">
 </p>
 
 <p align="center">
@@ -94,6 +105,35 @@ Home Base : https://paoromancer.github.io/
   <img src="assets/sakura-divider.svg" width="100%"/>
 </p>
 
+## 🍡 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/PaoRomancer/SCADA-SECS"><img src="assets/project-01.svg" width="100%" alt="SCADA-SECS"/></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/PaoRomancer/Wattup-IoT"><img src="assets/project-02.svg" width="100%" alt="WattsUp"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/PaoRomancer/DoorKeeper"><img src="assets/project-03.svg" width="100%" alt="DoorKeeper"/></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/PaoRomancer/XGBoost-Accuracy-Water-Quality-Testing-1"><img src="assets/project-04.svg" width="100%" alt="Water Quality AI"/></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/PaoRomancer?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20episodes-FF8FAB?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="assets/sakura-divider.svg" width="100%"/>
+</p>
+
 ## 🎐 Status Window
 
 <p align="center">
@@ -110,6 +150,12 @@ Home Base : https://paoromancer.github.io/
 </p>
 
 ## 💌 Contact Me
+
+<p align="center">
+  <a href="https://paoromancer.github.io/">
+    <img src="assets/portfolio-banner.svg" width="80%" alt="Visit my portfolio website"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="mailto:natthawitno@outlook.com"><img src="https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=white"/></a>
