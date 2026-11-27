@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/chiikawa-hachiware.gif" width="700">
+  <img src="assets/chiikawa-hachiware.gif" width="800" height="400>
 </p>
+    
 <h1>Hey 👋, I'm Natthawit Nowanghan</h1>
 
 * 👩🏼‍💻 Student of King Mongkut's Institute of Technology Ladkrabang (University in Thailand)
