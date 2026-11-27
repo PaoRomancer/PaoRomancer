@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/chiikawa-hachiware.gif" width="200">
+  <img src="assets/chiikawa-hachiware.gif" width="700">
 </p>
 <h1>Hey 👋, I'm Natthawit Nowanghan</h1>
 
